@@ -10,3 +10,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeAHopkirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=hlsl,shaderlab)
+![](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeAHopkirk&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20&size_weight=0&count_weight=1" />)
